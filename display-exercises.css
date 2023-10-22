@@ -1,0 +1,44 @@
+.name{
+    display: block;
+}
+input:focus{
+    outline: none;
+}
+.next-exercise{
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    color: white;
+    margin-top: 20vh;
+    display: block;
+    width: 110px;
+    margin-left:30vh;
+    background-color: rgb(140, 0, 255);
+    border-radius: 16px;
+ }
+p{
+    display: inline-block;
+    width: 210px;
+    vertical-align: middle;
+    
+}
+button{
+ margin-left: 10px;
+}
+
+img{
+    display: block;
+    width: 140px;
+    margin-left: 220px;
+    margin-bottom: 10px;
+}
+.search-bar{
+    display: block;
+    padding: 12px;
+    width: 380px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px gray;
+
+}

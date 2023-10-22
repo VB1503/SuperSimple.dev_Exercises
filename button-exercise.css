@@ -1,0 +1,110 @@
+button{
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.next-exercise{
+    padding: 20px;
+    border: none;
+    text-decoration: none;
+    width: 140px;
+    color: white;
+    display: block;
+    width: 110px;
+    margin-left:30vh;
+    margin-top: 10vh;
+    background-color: rgb(140, 0, 255);
+    border-radius: 16px;
+ }
+#uber{
+height: 36px;
+width: 140px;
+background-color: black;
+color: white;
+border: none;
+
+}
+#amazon{
+    height: 36px;
+    width: 160px;
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 18px;
+}
+
+#github{
+    height: 36px;
+    width: 80px;
+    color: white;
+    background-color: rgb(46, 164, 79);
+    border-radius: 4px;
+    border: none;
+}
+
+#bootstrap{
+    height: 36px;
+    width: 100px;
+    color: white;
+    background-color: rgb(121, 82, 179);
+    border: none;
+    border-radius: 4px;
+}
+
+#bootstrap-download{
+    height: 36px;
+    width: 100px;
+    border-radius: 4px;
+    border-width: 1px;
+}
+
+#linkedin{
+    height: 36px;
+    width: 220px;
+    color: white;
+    background-color: rgb(10, 102, 194);
+    border: none;
+    border-radius: 18px;
+}
+#link-save{
+    height: 36px;
+    width: 70px;
+    background-color: white;
+    border-color: rgb(10, 102, 194);
+    color: rgb(10, 102, 194);
+    border-radius: 18px;
+    border-width: 1px;
+    border-style: solid;
+}
+#pagination{
+    padding: 10px;
+    margin-left: 10px;
+
+}
+a{
+    margin-left: 2px;
+}
+#stretch{
+    padding: 10px 16px;
+    background-color: green;
+    border: none;
+    transition: padding 1s;
+
+}
+#stretch:hover{
+    padding: 20px 32px;
+}
+#shadow{
+    padding: 10px 16px;
+    background-color: green;
+    border: none;
+
+}
+#shadow:hover{
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.438);
+}
+#same{
+    padding: 10px 16px;
+    background-color: green;
+    border: none;
+    margin-right:10px ;
+}
